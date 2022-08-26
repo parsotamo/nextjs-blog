@@ -17,7 +17,4 @@ function printBasics() {
   console.log(basics):
 }
 
-printBasics();
 ```
-
-Learn more about it [here](https://academind.com).
